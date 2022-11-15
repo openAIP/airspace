@@ -26,7 +26,7 @@
 *                       contact : commission.espaceaerien@ffvp.fr              *
 *                                                                              *
 ********************************************************************************
-
+Gravelines
 ** (+)Ajout/Add (-)Suppression/Cancel (Mod)Modification
 
 **** Mod Derogation Vanoise Grand roc noir + Aussois ****
@@ -10661,7 +10661,7 @@ AC P
 AN P26 Gravelines
 AH 3300FT MSL
 AL GND
-V X=51:00:10 N 002:07:50 E
+V X=51:00:52 N 002:08:00 E
 DC 2.7
 
 ** P 27 GRAVENCHON (08 APR 2010) **
